@@ -1,0 +1,6 @@
+1.Write a Python program which accepts the radius of a circle from the user andbprint the area of the circle
+2.Write a Python program which accepts the user's first and last name and print them in reverse order separated by '$' 
+for example first_name=mohamed last_name=mossad then output should be mossad mohamed
+3.Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
+for example if n=3 then your program should print 3+9+27
+4.Write a Python program that will accept the base and height of a triangle and compute the area and print it
