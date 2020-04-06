@@ -1,0 +1,36 @@
+question 1 :
+assume you have an array of integers with duplicates , for example
+[1, 2, 3, 1, 2, 5, 6, 7, 8]
+write a python script to get user input list with duplicates and perform two tasks
+1- print frequency table of the list where every element is mapped with its occurances
+{1:2,2:2,3:1,5:1,6:1,7:1} , here 1 found two times , 2 found 2 times and so on
+2- print new list with only unique items for example in previous list you should return
+[1,2,3,5,6,7,8]
+
+#####################################################################
+
+question 2 :
+Given two strings s1 and s2, check if both the strings are anagrams of each other
+An anagram of a string is another string that contains same characters, only the order of characters can be different. 
+For example, “abcd” and “dabc” are anagram of each other
+for example
+Input : s1 = "listen"
+        s2 = "silent"
+Output : The strings are anagrams.
+
+
+Input : s1 = "dad"
+        s2 = "bad"
+Output : The strings aren't anagrams.
+
+###########################################################
+
+question 3:
+Given a long sentence, reverse each word of the sentence individually in the sentence itself.
+Examples:
+
+Input : 'Geeks For Geeks is good to learn'
+Output : 'skeeG roF skeeG si doog ot nrael'
+
+Input : 'Split Reverse Join'
+Output : 'tilpS esreveR nioJ'
