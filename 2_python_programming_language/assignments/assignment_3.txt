@@ -34,3 +34,9 @@ Output : 'skeeG roF skeeG si doog ot nrael'
 
 Input : 'Split Reverse Join'
 Output : 'tilpS esreveR nioJ'
+
+#######################################################3
+
+write a python function str_to_num() that accepts input string of numbers , and evaluates its integer value
+for example str_to_num('124') >>> will return 124
+note : do not use int()
