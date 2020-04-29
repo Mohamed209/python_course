@@ -1,0 +1,12 @@
+Write a Python class which has three methods get_String and print_String and reverse string
+get_String accept a string from the user and upper_string print the string in upper case
+and reverse_string() returns the reverse of the input string
+=============================
+Write a Python class named Rectangle constructed by a length and width 
+and a method which will compute the area of a rectangle and another method
+to compute the perimeter
+=============================
+Write a Python program that takes a text file as input and returns the number of words of a given text file
+note : words are separated by space
+============================
+Write a Python program to combine each line from first file with the corresponding line in second file
